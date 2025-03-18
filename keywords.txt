@@ -1,0 +1,23 @@
+#########################################
+# Syntax Coloring Map For XJavaComEsp32io
+#########################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+XJavaComEsp32io	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setPin	KEYWORD2
+outSet	KEYWORD2
+kedip	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CONSTANT	LITERAL1
